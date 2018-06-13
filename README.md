@@ -20,3 +20,7 @@ When a customer rents a car, he declares the pick-up and drop-off location, and 
 <br />
 
 The customer pays the charges when he returns the car.
+<br />
+
+## Database Design
+![er-diagram](https://github.com/harmeet-saluja/fwp_db_casestudy/blob/master/fwpcrs.bmp)
